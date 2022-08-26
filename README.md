@@ -49,8 +49,8 @@ Libraries used:
 
 1. Download and install [Python](https://www.python.org/downloads/) on your computer
 2. Simply download the [ANTI-RANSOMWARE](https://github.com/Grupo0b1t/eye-of-shiva/tree/main/ANTI-RANSOMWARE) folder and run:
-* `machinelearning_ransomware_detector.py` for:
+* `eye-of-shiva.py` for:
     - the actual tool
-* `arq.py` to:
+* `unlock_backup.py` to:
     - unlock the protected_backup
 * It's not required to run `AddRegistry.py`, `PublicMalware_detection.py` and `ransomware_behave_db.py` because they are used automatically.
