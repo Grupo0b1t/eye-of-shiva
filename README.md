@@ -29,7 +29,6 @@ It counts with many ways of:
 
 This project is created with:
 * Python 3.10.4
-\
 
 Libraries used:
 * OS
