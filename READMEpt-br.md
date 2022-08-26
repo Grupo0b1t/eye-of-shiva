@@ -29,7 +29,6 @@ Ela conta com várias formas de:
 
 Esse projeto foi criado com:
 * Python 3.10.4
-\
 
 Bibliotecas utilizadas:
 * OS
