@@ -49,8 +49,8 @@ Bibliotecas utilizadas:
 
 1. Baixe e instale [Python](https://www.python.org/downloads/) no seu computador
 2. Baixe a pasta [ANTI-RANSOMWARE](https://github.com/Grupo0b1t/eye-of-shiva/tree/main/ANTI-RANSOMWARE) e rode:
-* `machinelearning_ransomware_detector.py` para:
+* `eye-of-shiva.py` para:
     - a ferramenta em si
-* `arq.py` para:
+* `unlock_backup.py` para:
     - desbloquear o protected_backup
 * Não é necessário executar `AddRegistry.py`, `PublicMalware_detection.py` and `ransomware_behave_db.py`, pois eles já são utilizados automaticamente.
