@@ -3,13 +3,13 @@
 # Eye of Shiva #
 
 ## Table of contents
-- - - -
+
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup and how to use it](#Setup-and-how-to-use-it)
 
 ## General Info
-- - - -
+
 This tool is capable of identifying and blocking a ransomware attack on a Windows machine, in addition to recovering possibly compromised files.\
 \
 It counts with many ways of:
@@ -26,7 +26,7 @@ It counts with many ways of:
     - Filtering and Killing Processes
 
 ## Technologies
-- - - -
+
 This project is created with:
 * Python 3.10.4
 \
@@ -46,7 +46,7 @@ Libraries used:
 * webbrowser
 
 ## Setup and how to use it
-- - - -
+
 1. Download and install [Python](https://www.python.org/downloads/) on your computer
 2. Simply download the [ANTI-RANSOMWARE](https://github.com/Grupo0b1t/eye-of-shiva/tree/main/ANTI-RANSOMWARE) folder and run:
 * `machinelearning_ransomware_detector.py` for:
