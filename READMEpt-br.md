@@ -1,4 +1,4 @@
-<p align="right"><strong>Potuguês</strong> | <a href="(https://github.com/Grupo0b1t/eye-of-shiva/blob/main/README.md)">English</a></p>
+<p align="right"><strong>Potuguês</strong> | <a href="https://github.com/Grupo0b1t/eye-of-shiva/blob/main/README.md">English</a></p>
 
 # Eye of Shiva #
 
