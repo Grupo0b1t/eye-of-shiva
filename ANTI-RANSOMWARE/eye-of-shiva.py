@@ -80,8 +80,9 @@ def start_protection(): #creates a folder that is going to be used as backup and
 def trap_create(): #creates honeypot files
 
     for x in range(1, 100):
-        with open(f".trapfile{x}.txt", "w") as file:
+        with open(f"_trapfile{x}.txt", "w") as file:
             file.write("trap file for ransomware detection")
+            os.system(f"attrib +h _trapfile{x}.txt")
 
         file.close()
 
