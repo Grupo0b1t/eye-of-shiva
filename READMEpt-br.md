@@ -42,8 +42,8 @@ Bibliotecas utilizadas:
 ## Instalação e como usar
 
 1. Baixe e instale [Python](https://www.python.org/downloads/) no seu computador
-2. Baixe o [Eye of Shiva.zip](https://github.com/Grupo0b1t/eye-of-shiva/tree/main/ANTI-RANSOMWARE) e rode:
-* `setup.py` para:
+2. Baixe o [Eye of Shiva.zip](https://github.com/Grupo0b1t/eye-of-shiva/blob/main/Eye%20of%20Shiva/Eye%20of%20Shiva.rar) e rode:
+* No cmd: `python setup.py` para:
     - isntalar as dependências
 * `Eye of Shiva Setup.exe` para:
     - instalar a ferramenta no seu computador
