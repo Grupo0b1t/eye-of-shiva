@@ -2,7 +2,7 @@
 
 # Eye of Shiva #
 
-## Table of contents
+## Tabela de conteúdos
 
 * [Informações gerais](#informações-gerais)
 * [Tecnologias](#tecnologias)
