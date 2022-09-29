@@ -7,6 +7,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup and how to use it](#Setup-and-how-to-use-it)
+* [Description](#description)
 
 ## General Info
 
