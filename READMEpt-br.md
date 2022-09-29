@@ -7,6 +7,7 @@
 * [Informações gerais](#informações-gerais)
 * [Tecnologias](#tecnologias)
 * [Instalação e como usar](#instalação-e-como-usar)
+* [Descrição](#descrição)
 
 ## Informações gerais
 
@@ -31,26 +32,39 @@ Esse projeto foi criado com:
 * Python 3.10.4
 
 Bibliotecas utilizadas:
-* OS
-* pathlib
 * psutil
-* time
-* subprocess
 * regex
 * watchdog
 * requests
-* hashlib
-* sklearn
-* tkinter
-* PIL
-* webbrowser
+* scikit-learn
+* pillow
 
 ## Instalação e como usar
 
 1. Baixe e instale [Python](https://www.python.org/downloads/) no seu computador
-2. Baixe a pasta [ANTI-RANSOMWARE](https://github.com/Grupo0b1t/eye-of-shiva/tree/main/ANTI-RANSOMWARE) e rode:
-* `eye-of-shiva.py` para:
-    - a ferramenta em si
-* `unlock_backup.py` para:
-    - desbloquear o protected_backup
-* Não é necessário executar `AddRegistry.py`, `PublicMalware_detection.py` and `ransomware_behave_db.py`, pois eles já são utilizados automaticamente.
+2. Baixe o [Eye of Shiva.zip](https://github.com/Grupo0b1t/eye-of-shiva/tree/main/ANTI-RANSOMWARE) e rode:
+* `setup.py` para:
+    - isntalar as dependências
+* `Eye of Shiva Setup.exe` para:
+    - instalar a ferramenta no seu computador
+* É recomendado criar um atalho na Área de Trabalho já que o uso da ferramenta será facilitado.
+
+
+## Descrição
+
+### Tela principal
+
+![App Screenshot](https://cdn.discordapp.com/attachments/669945882162233358/1025149527356874752/unknown.png)
+
+É possível ligar/desligar a proteção clicando no botãod e Power na tela principal
+
+### Configurações avançadas
+
+![App Screenshot](https://cdn.discordapp.com/attachments/669945882162233358/1025149565202092052/unknown.png)
+
+* Create backup
+    - Ao clicar em backup você pode criar uma versão atualizada do seu shadow copy e deletar a versão antiga.
+
+* Lock/Unlock Backup Folder
+    - Ao clicar em locked/unlock você pode conceder acesso próprio para editar os conteúdos da sua protected_folder localizada na Área de Trabalho
+
