@@ -42,7 +42,7 @@ Libraries used:
 ## Setup and how to use it
 
 1. Download and install [Python](https://www.python.org/downloads/) on your computer
-2. Simply download the [Eye of Shiva.zip](https://github.com/Grupo0b1t/eye-of-shiva/tree/main/ANTI-RANSOMWARE) folder and run:
+2. Simply download the [Eye of Shiva.zip](https://github.com/Grupo0b1t/eye-of-shiva/blob/main/Eye%20of%20Shiva/Eye%20of%20Shiva.rar) folder and run:
 * `setup.py` for:
     - installing the dependencies
 * `Eye of Shiva Setup.exe` to:
