@@ -1,0 +1,6 @@
+scikit-learn
+watchdog
+psutil
+requests
+pillow
+regex

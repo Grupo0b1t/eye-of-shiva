@@ -1,0 +1,15 @@
+{
+    "shiva_path": ".\\Images\\shiva.png",
+    "bg_path": ".\\Images\\background.png",
+    "info_path": ".\\Images\\info.png",
+    "button_on_path": ".\\Images\\on.png",
+    "button_off_path": ".\\Images\\off.png",
+    "_us_path": ".\\Images\\us.png",
+    "team_path": ".\\Images\\team.png",
+    "settings_path": ".\\Images\\settings.png",
+    "lock_On_path": ".\\Images\\locked.png",
+    "lock_Off_path": ".\\Images\\unlocked.png",
+    "backup_On_path": ".\\Images\\backup.png",
+    "backup_Off_path": ".\\Images\\backup2.png",
+    "warning_path": ".\\Images\\warning.png"
+}
