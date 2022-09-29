@@ -30,7 +30,7 @@ Ela conta com várias formas de:
 ## Tecnologias
 
 Esse projeto foi criado com:
-* Python 3.10.4
+* Python3
 
 Bibliotecas utilizadas:
 * psutil
