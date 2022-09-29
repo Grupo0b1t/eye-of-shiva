@@ -28,29 +28,42 @@ It counts with many ways of:
 ## Technologies
 
 This project is created with:
-* Python 3.10.4
+* Python3
 
 Libraries used:
-* OS
-* pathlib
 * psutil
-* time
-* subprocess
 * regex
 * watchdog
 * requests
-* hashlib
-* sklearn
-* tkinter
-* PIL
-* webbrowser
+* scikit-learn
+* pillow
 
 ## Setup and how to use it
 
 1. Download and install [Python](https://www.python.org/downloads/) on your computer
-2. Simply download the [ANTI-RANSOMWARE](https://github.com/Grupo0b1t/eye-of-shiva/tree/main/ANTI-RANSOMWARE) folder and run:
-* `eye-of-shiva.py` for:
-    - the actual tool
-* `unlock_backup.py` to:
-    - unlock the protected_backup
-* It's not required to run `AddRegistry.py`, `PublicMalware_detection.py` and `ransomware_behave_db.py` because they are used automatically.
+2. Simply download the [Eye of Shiva.zip](https://github.com/Grupo0b1t/eye-of-shiva/tree/main/ANTI-RANSOMWARE) folder and run:
+* `setup.py` for:
+    - installing the dependencies
+* `Eye of Shiva Setup.exe` to:
+    - install the tool on your computer
+* It's recommended to create a shortcut on your desktop as it would be easier to run our tool.
+
+
+## Description
+
+### Main screen
+
+![App Screenshot](https://cdn.discordapp.com/attachments/669945882162233358/1025149527356874752/unknown.png)
+
+You can activate/deacitvate by clicking on the Power buttom at the main screen
+
+### Advanced Settings
+
+![App Screenshot](https://cdn.discordapp.com/attachments/669945882162233358/1025149565202092052/unknown.png)
+
+* Create backup
+    - By cliking on backup you can create an updated version of your shadow copy and delete the old one
+    
+* Lock/Unlock Backup Folder
+    - By clicking on locked/unlock button you can grant access to yourself to edit the contents of your protected_folder located at your Desktop
+
