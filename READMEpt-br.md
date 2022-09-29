@@ -20,6 +20,7 @@ Ela conta com várias formas de:
     - Filtrando arquivos suspeitos
     - Analisando alterações no sistema de arquivos
     - Machine Learning
+    - Criação de arquivos de recuperação
 * Prevenção. Como:
     - Backup local protegido
     - Backup shadow protegido
@@ -48,6 +49,12 @@ Bibliotecas utilizadas:
 * `Eye of Shiva Setup.exe` para:
     - instalar a ferramenta no seu computador
 * É recomendado criar um atalho na Área de Trabalho já que o uso da ferramenta será facilitado.
+
+3. É possível baixar somente o código fonte em [Source](https://github.com/Grupo0b1t/eye-of-shiva/tree/main/Eye%20of%20Shiva/Source)
+* No cmd: `python setup.py` para:
+    - instalar as dependências
+* No cmd: `python runAdmin.py` para:
+    - iniciar a ferramenta
 
 
 ## Descrição
