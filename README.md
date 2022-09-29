@@ -56,7 +56,7 @@ Libraries used:
 
 ![App Screenshot](https://cdn.discordapp.com/attachments/669945882162233358/1025149527356874752/unknown.png)
 
-You can activate/deacitvate by clicking on the Power buttom at the main screen
+You can activate/deacitvate the protection by clicking on the Power buttom at the main screen
 
 ### Advanced Settings
 
