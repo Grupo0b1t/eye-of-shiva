@@ -43,7 +43,7 @@ Libraries used:
 
 1. Download and install [Python](https://www.python.org/downloads/) on your computer
 2. Simply download the [Eye of Shiva.zip](https://github.com/Grupo0b1t/eye-of-shiva/blob/main/Eye%20of%20Shiva/Eye%20of%20Shiva.rar) folder and run:
-* `setup.py` for:
+* On cmd: `python setup.py` for:
     - installing the dependencies
 * `Eye of Shiva Setup.exe` to:
     - install the tool on your computer
