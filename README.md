@@ -20,6 +20,7 @@ It counts with many ways of:
     - By suspicious Files
     - By File System Changes
     - Machine Learning
+    - Creation of recover files
 * Preventing. Such as:
     - Protected Local Backup
     - Protected Shadow Copy
@@ -48,6 +49,12 @@ Libraries used:
 * `Eye of Shiva Setup.exe` to:
     - install the tool on your computer
 * It's recommended to create a shortcut on your desktop as it would be easier to run our tool.
+
+3. It's possible to download only the source code at [Source](https://github.com/Grupo0b1t/eye-of-shiva/tree/main/Eye%20of%20Shiva/Source)
+* On cmd: `python setup.py` for:
+    - installing the dependencies
+* On cmd: `python runAdmin.py` to:
+    - run the tool
 
 
 ## Description
